@@ -1,0 +1,6 @@
+{
+  "name": "workflow",
+  "version": "0.1.0",
+  "description": "Krish's phased dev workflow: scope → audit → architect → per-phase develop → test → check → sync, with .dev/ project memory and git guards.",
+  "author": { "name": "Krish Jeswal" }
+}

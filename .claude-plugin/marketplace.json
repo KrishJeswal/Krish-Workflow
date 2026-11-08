@@ -1,0 +1,11 @@
+{
+  "name": "krish",
+  "owner": { "name": "Krish Jeswal" },
+  "plugins": [
+    {
+      "name": "workflow",
+      "source": "./",
+      "description": "Phased dev workflow with .dev/ project memory and git guards."
+    }
+  ]
+}
